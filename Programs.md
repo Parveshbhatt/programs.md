@@ -25,3 +25,10 @@ void main()
  printf("Sum : %d + %d = %d \n",a,b,a+b);
 }
 ```
+## 2. AVG.OF N NUMBER
+```C
+#include<stdio.h>
+void main() 
+{
+ int n;
+ float sum=0;
