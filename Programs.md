@@ -5,8 +5,8 @@ ___
 ![](https://nptel.ac.in/content/college_assets/college_logo/1078_logo.jpg)
 ----
 ---
-## **NAME** - ***Rajnish kumar***
-## **ROLL NO.** - *1921084*
+## **NAME** - ***Parvesh Bhatt***
+## **ROLL NO.** - *1921078*
 ## **BRANCH** - *Information technology*
 '''
 ---
